@@ -27,11 +27,7 @@ packages).
     
 Use:
    
-    1. pip install sentence_splitter
-    2. pip install SentencePiece
-    3. pip install streamlit
-    4. pip install torch
-    5. pip install transformers
+    1. pip install -r requirements.txt
    
 After installing these dependencies, first compile the script in cmd using:
    
