@@ -43,14 +43,13 @@ Once it compiles without any errors, view the output on your browser using:
     
 Conclusion:
 
-During our testing, the system satisfies our requirement to remove plagiarism as an obstacle. 
+During our testing, this system satisfies the purpose - to remove plagiarism as an obstacle. 
 Although the system is substantially more time consuming than an online tool, it is concluded
-that, on average, our system is 24.4% more effective than any online paraphrasing tool
+that, on average, our system is 24.4% more effective than commercial online paraphrasing tool
 available
     
     
-We thank the existence of many sources/technologies to exist for the success of this project. 
-The sources used are as follows:
+We thank the existence of many sources/technologies to exist for the success of this project; The sources used are as follows:
 1. Streamlit for web app creation: 
 https://streamlit.io/
 2. The hugging face community by google for the Pegasus Model: 
